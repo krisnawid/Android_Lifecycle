@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class SimpleActivity extends AppCompatActivity {
 
     private EditText nameInput;
+
     private TextView outputText;
 
     @Override

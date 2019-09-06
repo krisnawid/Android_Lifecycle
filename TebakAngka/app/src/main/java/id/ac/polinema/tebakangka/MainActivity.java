@@ -13,6 +13,8 @@ import java.util.Random;
 public class MainActivity extends AppCompatActivity {
 
 	//  TODO: deklarasikan variabel di sini
+	EditText teks;
+	int n;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
